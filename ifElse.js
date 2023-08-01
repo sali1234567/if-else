@@ -1,9 +1,9 @@
 let Name = "sali";
 
 if(Name == "sali"){
-    console.log("This is my nickname")
+    console.log("sali is my nickname")
 }else if(Name == "salome"){
-    console.log("This is my name")
+    console.log("salome is my name")
 }else{
-    console.log("This isn't my name/nickname")
+    console.log(Name,"isn't my name/nickname")
 }
